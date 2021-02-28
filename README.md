@@ -1,2 +1,2 @@
-# visual_Energy
-public sample of some energy data handling and visualization
+# Samples
+Here a selection of publishable work in some projects (academic or personal) is available
